@@ -8,3 +8,5 @@ In place of switches, an arduino is added to the circuit and coded as in the rep
 
 ### Actual Build ###
 
+![Top](/top.jpg?raw=true "Top View")
+![Side](/side.jpg?raw=true "Side View")
